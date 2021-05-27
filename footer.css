@@ -1,0 +1,23 @@
+footer {
+    background-color: #35424a;;
+    color:#ffffff;
+    padding: 20px;
+    text-align:center;
+    padding-top:20px;
+    
+}
+
+#flex_footer{
+    display:flex;
+    justify-content:space-between;
+    width:80%;
+    margin:0 auto;
+}
+.text_footer p {
+    color:#aaaaaa;
+}
+
+.logo_footer img{ 
+    margin-left:5px;
+    margin-right: 5px;
+}
